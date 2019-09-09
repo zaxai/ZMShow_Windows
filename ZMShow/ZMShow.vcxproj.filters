@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ZMShow.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZMShowDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleBar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="OperateBar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZStatic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZButton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZPlayer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTimeSliderCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZVolumeSliderCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTreeCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZSqlite3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZPlayList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZComboBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Setting.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZTabCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZSetting.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Relation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HotKey.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZListCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CLyricBar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZListEdit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZComboListBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZLrcListBox.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZCircleButton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CToolTipBar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZOperateRegedit.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ZUtil.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ZMShow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZMShowDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleBar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OperateBar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZStatic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZButton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZPlayer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTimeSliderCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZVolumeSliderCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTreeCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZSqlite3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZPlayList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZComboBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Setting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZTabCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Common.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZSetting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Relation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HotKey.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZListCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CLyricBar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZListEdit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZComboListBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZLrcListBox.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZCircleButton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CToolTipBar.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZOperateRegedit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ZUtil.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="ZMShow.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\ZMShow.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\ZMShow.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar256.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Close.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\CloseOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Max.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\MaxOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Min.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\MinOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\BkGnd.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\List.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ListMode.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ListModeOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ListOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Full.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\FullOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Mute.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\MuteOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Next.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\NextOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Pause.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\PauseOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Play.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\PlayOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Prev.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\PrevOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Stop.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\StopOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Volume.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\VolumeOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Collapse.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Expand.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Origin.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\OriginOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Normal.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\NormalOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Search.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\SearchOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Remind.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\DeskLrc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\DeskLrcOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Font.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\FontOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\SizeDown.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\SizeDownOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\SizeUp.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\SizeUpOn.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ColorBk.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ColorFg.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
